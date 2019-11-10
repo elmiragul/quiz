@@ -1,0 +1,28 @@
+
+
+.name{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+  width: 500px;
+  height:300px;
+  margin:50px auto;
+  display:block;
+  background-color: orange;
+  text-align:center;
+}
+
+
+.name__question {
+  box-sizing: border-box;
+  margin:50px auto;
+  width:300px;
+  height:150px;
+  background-color: yellow;
+  text-align: center;
+}
+
+.name__textarea{
+    width: 100px;
+    font-size: 20px;
+}
+
